@@ -87,6 +87,18 @@
               <italic>true</italic>
              </font>
             </property>
+            <property name="cursor">
+             <cursorShape>ArrowCursor</cursorShape>
+            </property>
+            <property name="inputMethodHints">
+             <set>Qt::ImhNone</set>
+            </property>
+            <property name="text">
+             <string/>
+            </property>
+            <property name="echoMode">
+             <enum>QLineEdit::Normal</enum>
+            </property>
             <property name="placeholderText">
              <string>Enter your wifi name</string>
             </property>
@@ -99,6 +111,9 @@
               <pointsize>15</pointsize>
               <italic>true</italic>
              </font>
+            </property>
+            <property name="echoMode">
+             <enum>QLineEdit::Password</enum>
             </property>
             <property name="alignment">
              <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>

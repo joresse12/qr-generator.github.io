@@ -5,7 +5,8 @@ obtain a QR-Code by giving a password
 Install my-project with npm
 
 ```bash
-  git clone
+  git clone https://github.com/joresse12/qr-generator.github.io.git
+  cd qr-generator.github.io
 ```
 ## 🚀 About Me
 I'm a full stack developer...

@@ -13,3 +13,6 @@ I'm a full stack developer...
 
 ## 🛠 Skills
 Javascript, HTML, CSS...
+
+## Demo 
+![Alt text](./images/Screenshot%20Qr-code.png)

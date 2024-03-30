@@ -1,5 +1,5 @@
-# qr-generator.github.io
-obtain a QR-Code by giving a password
+# Description
+obtain a QR-Code by giving a password.
 ## Installation
 
 Install my-project with npm

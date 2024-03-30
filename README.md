@@ -5,14 +5,13 @@ obtain a QR-Code by giving a password
 Install my-project with npm
 
 ```bash
-  npm install my-project
-  cd my-project
+  git clone
 ```
 ## 🚀 About Me
 I'm a full stack developer...
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+Python, QtDesigner, CSS...
 
 ## Demo 
 ![Alt text](./images/Screenshot%20Qr-code.png)

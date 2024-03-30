@@ -137,6 +137,13 @@
             </layout>
            </widget>
           </item>
+          <item alignment="Qt::AlignHCenter">
+           <widget class="QPushButton" name="download_btn">
+            <property name="text">
+             <string>Download QR-Code </string>
+            </property>
+           </widget>
+          </item>
          </layout>
         </widget>
        </item>
